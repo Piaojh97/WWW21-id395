@@ -68,7 +68,7 @@ if __name__ == '__main__':
     np.random.seed(args.seed)
     torch.backends.cudnn.deterministic = True   # 每次训练得到相同结果
 
-    setproctitle.setproctitle('GCN4CV@JinghuaPiao') # 设定程序名
+    setproctitle.setproctitle('xxxxxxxxxx') # 设定程序名
 
     ############################### Load Data ###############################
     print('------------------------- Loading data -------------------------')
