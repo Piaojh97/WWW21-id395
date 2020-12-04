@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: pjh
+@author:xxxxxxx
 """
 import torch
 import torch.utils
